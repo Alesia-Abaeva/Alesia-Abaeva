@@ -1,12 +1,10 @@
-## Hi, I'm Alesia, but you've already figured it out!
-
-### I started learning JS and React and couldn't stop.
+## I started learning JS and React and couldn't stop.
 
 Survived after [RS School](https://rs.school/) courses (went through pain and suffering, but received knowledge, experience and certificates as a bonus).
 
 I am a react frontend developer from Krasnodar with experience in creating a SPA using React, Redux (RTK), Next.js.
-
-I am not afraid of complex projects, I am attentive to details. I always achieve my goals. I am improving day by day.
+I am not afraid of complex projects, I am attentive to details. I always achieve my goals.
+I am improving day by day.
 
 ## Skills
 
