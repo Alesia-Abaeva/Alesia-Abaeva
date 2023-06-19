@@ -1,19 +1,14 @@
-## Hi, I'm Alesya, but you've already figured it out!
+# Hi, I'm Alesia, but you've already figured it out!
 
-I started learning JS and React and couldn't stop
-Survived after RS School courses (went through pain and suffering, but received knowledge, experience and certificates as a bonus)
+## I started learning JS and React and couldn't stop.
 
-Easily work both in a team and alone.
+Survived after [RS School](https://rs.school/) courses (went through pain and suffering, but received knowledge, experience and certificates as a bonus).
 
-     I am a react frontend developer from Krasnodar with experience in creating a SPA using React, Redux (RTK), Next.js.
-     I am not afraid of complex projects, I am attentive to details. I always achieve my goals.
-     I am improving day by day.
+- I am a react frontend developer from Krasnodar with experience in creating a SPA using React, Redux (RTK), Next.js.
+- I am not afraid of complex projects, I am attentive to details. I always achieve my goals.
+- I am improving day by day.
 
-## Social:
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/alesia_abaeva)
-
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
