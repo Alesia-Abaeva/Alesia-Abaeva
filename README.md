@@ -1,6 +1,6 @@
-# Hi, I'm Alesia, but you've already figured it out!
+## Hi, I'm Alesia, but you've already figured it out!
 
-## I started learning JS and React and couldn't stop.
+# I started learning JS and React and couldn't stop.
 
 Survived after [RS School](https://rs.school/) courses (went through pain and suffering, but received knowledge, experience and certificates as a bonus).
 
