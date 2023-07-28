@@ -1,6 +1,9 @@
-## I started learning JS and React and couldn't stop.
+## Hi i am Alesia
 
-Survived after [RS School](https://rs.school/) courses (went through pain and suffering, but received knowledge, experience and certificates as a bonus). I am a react frontend developer from Krasnodar with experience in creating a SPA using React, Redux (RTK), Next.js. I am not afraid of complex projects, I am attentive to details. I always achieve my goals. I am improving day by day.
+I started learning JS and React and couldn't stop.
+Survived after [RS School](https://rs.school/) courses (went through pain and suffering, but received knowledge, experience and certificates as a bonus). I am a react frontend developer from Krasnodar with experience in creating a SPA using React, Redux (RTK), Next.js. 
+I'm not afraid of difficulties (passed the second and third witcher at maximum difficulty), very attentive to details and always achieve my goals. I am improving day by day.
+
 
 ## Skills
 
